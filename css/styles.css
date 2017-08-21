@@ -1,0 +1,50 @@
+body {
+  background-color: #e9f4ff;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+audio {
+  padding: 10px;
+}
+
+form {
+  padding: 10px;
+}
+
+#searchText {
+  font-size: 24px;
+}
+
+#searchBox {
+  width: 40em;
+  height: 2em;
+  font-size: 18px;
+}
+
+#myButton {
+  width: 9em;
+  height: 4em;
+  background-color: gray;
+}
+
+#container {
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  justify-content: center;
+}
+
+.box {
+  background-color: #a4c5e6;
+  padding: 5px;
+  margin: 5px;
+  width: 200px;
+  text-align: center;
+}
