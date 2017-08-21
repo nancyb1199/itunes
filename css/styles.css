@@ -10,6 +10,7 @@ h1 {
 
 audio {
   padding: 10px;
+  width: 50vw;
 }
 
 form {
@@ -45,6 +46,7 @@ form {
   background-color: #a4c5e6;
   padding: 5px;
   margin: 5px;
-  width: 200px;
+  width: 20vw;
+  height: 25vh;
   text-align: center;
 }
